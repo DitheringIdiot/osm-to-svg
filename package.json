@@ -1,0 +1,11 @@
+{
+  "name": "osm-to-svg",
+  "version": "1.0.0",
+  "description": "turn Open Street Map into static svgs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
